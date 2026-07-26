@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.20">
+	<ConfigVersions>
+		<Metadata name="Catalog.Дети" id="19cc27a8-62a9-49c6-adf0-13b800042ce3" configVersion="dcc73cf87bfa1a469d2cd4143095b60100000000">
+			<Metadata name="Catalog.Дети.Attribute.ГодРождения" id="7738a990-b0ea-434c-99c0-74785b9a8cc9"/>
+		</Metadata>
+		<Metadata name="Catalog.Сотрудники" id="b3377575-be55-4fc2-a3fb-9d7990a3529a" configVersion="fde13c9674e3ae469838520264451ef300000000">
+			<Metadata name="Catalog.Сотрудники.TabularSection.ТрудоваяДеятельность.Attribute.Должность" id="1013a407-495f-49cc-b8d2-c7097a9a9081"/>
+			<Metadata name="Catalog.Сотрудники.TabularSection.ТрудоваяДеятельность.Attribute.ДатаУвольнения" id="1abb3a8b-beac-4199-8fb4-3ca50d9e85f8"/>
+			<Metadata name="Catalog.Сотрудники.TabularSection.ТрудоваяДеятельность" id="b421f498-506c-4e23-827b-8d7d88b59578"/>
+			<Metadata name="Catalog.Сотрудники.TabularSection.ТрудоваяДеятельность.Attribute.МестоРаботы" id="d21c1eaa-2a46-4d4e-b995-241580992201"/>
+			<Metadata name="Catalog.Сотрудники.TabularSection.ТрудоваяДеятельность.Attribute.ДатаНачалаРаботы" id="e93b8c69-86a2-4bf4-a102-a17455f91336"/>
+		</Metadata>
+		<Metadata name="Configuration.Конфигурация" id="7e2f9ba5-0fe0-4a52-a4a2-fc7a507a7eef" configVersion="60059e49a5c6c14187fcce6d6f5603ee00000000"/>
+		<Metadata name="InformationRegister.ОкладыСотрудников" id="180dc07d-5e9d-4b79-b753-6952b641c478" configVersion="645ffad77295af479322d379e3877d7c00000000">
+			<Metadata name="InformationRegister.ОкладыСотрудников.Resource.Оклад" id="6124d227-6754-4874-8a42-7ac7b218a263"/>
+			<Metadata name="InformationRegister.ОкладыСотрудников.Dimension.Сотрудник" id="9cbd7ce1-fa05-4f60-b3cd-750a251d4df2"/>
+		</Metadata>
+		<Metadata name="Language.Русский" id="9f348b0c-6f45-4d3b-9830-1247f8fcca30" configVersion="f4f23d742c253e44b86a8fedc3b9886300000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
